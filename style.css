@@ -9,3 +9,7 @@ body {
     color: rgb(92, 56, 26);
 }
 
+button {
+    background-color: rgb(219, 121, 51);
+    border-radius: 9999px;
+}
